@@ -1,5 +1,5 @@
 ### Buenas 👋
-##### Hola, me llamo Nicolas y actualmente estoy estudiando desarrollo web y de videojuegos. También tengo conocimientos en Java, HTML, CSS, PHP, JavaScript, Python y MySQL. Me gusta la programación, los autos, la música y los videojuegos.
+##### Hola, me llamo Nicolas y actualmente estoy estudiando desarrollo web. Tengo conocimientos en HTML, CSS, PHP, MySQL y Git. Me gusta la programación, los autos, la música y los videojuegos.
 
 <!--
 **Delsa40/Delsa40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
